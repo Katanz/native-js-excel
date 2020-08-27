@@ -1,2 +1,6 @@
 .code-workspace
+package-lock.js
 node_modules
+dist
+package-lock.json
+main-ws.code-workspace
